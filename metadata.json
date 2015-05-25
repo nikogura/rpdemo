@@ -1,0 +1,14 @@
+{
+  "name": "nikogura-rpdemo",
+  "version": "0.1.0",
+  "author": "nik.ogura@gmail.com",
+  "summary": "Demo modules for Roles and Profiles",
+  "license": "Apache-2.0",
+  "source": "https://github.com/nikogura/rpdemo",
+  "project_page": "https://github.com/nikogura/rpdemo",
+  "issues_url": "https://github.com/nikogura/rpdemo/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
